@@ -23,7 +23,7 @@ class SendRequest:
 
 
 if __name__ == '__main__':
-    Request = SendRequest()  # 实例化
+    Request = SendRequest()  # 实例化1111
     # 模拟单个设备请求
     data = {
         "sn": "lamp_002",  # 设备sn
